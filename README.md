@@ -11,3 +11,6 @@ flask --app=Site Dev
 ```
 localhost:8000
 ```
+
+## Information
+This website is developed based on Flask-Bootstrap packages Bootstrap.
